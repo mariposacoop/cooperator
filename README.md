@@ -1,0 +1,4 @@
+cooperator
+==========
+
+membership management module
