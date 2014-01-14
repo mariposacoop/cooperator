@@ -1,0 +1,16 @@
+{
+  "name": "cooperator",
+  "version": "0.0.0",
+  "description": "membership management module",
+  "repository": "git://github.com/marisposacoop/cooperator.git",
+  "dependencies": {
+    "pg": "2.11.0",
+    "restify": "2.6.1"
+  },
+  "devDependencies": {
+    "tap": "0.4.8"
+  },
+  "scripts": {
+    "test": "tap test/**/*.js"
+  }
+}
